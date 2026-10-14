@@ -1,0 +1,18 @@
+[project]
+name = "pixeltable-archery-lanes"
+version = "0.1.0"
+description = "Migrate archery-range scoring sessions from legacy JSON into Pixeltable, score with date-aware computed columns, and run as an incremental scheduled pipeline - built with Pixeltable"
+readme = "README.md"
+requires-python = ">=3.11"
+license = "Apache-2.0"
+authors = [{ name = "Pierre Brunelle" }]
+keywords = ["pixeltable", "multimodal", "ai", "computed-columns", "data-infrastructure", "archery-lanes"]
+dependencies = [
+    "pixeltable>=0.7.16",
+    "boto3",
+]
+
+[project.urls]
+Homepage = "https://pixeltable.com"
+Documentation = "https://docs.pixeltable.com"
+Pixeltable = "https://github.com/pixeltable/pixeltable"

@@ -1,0 +1,82 @@
+[
+  {
+    "session_code": "AR-20261001-L1",
+    "archer": "Maya Chen",
+    "lane": 1,
+    "session_date": "2026-10-01",
+    "arrows": 30,
+    "hits": 24,
+    "x_rings": 6,
+    "notes": "morning league"
+  },
+  {
+    "session_code": "AR-20261001-L2",
+    "archer": "Jon Park",
+    "lane": 2,
+    "session_date": "2026-10-01",
+    "arrows": 30,
+    "hits": 21,
+    "x_rings": 3,
+    "notes": "morning league"
+  },
+  {
+    "session_code": "AR-20261002-L1",
+    "archer": "Maya Chen",
+    "lane": 1,
+    "session_date": "2026-10-02",
+    "arrows": 36,
+    "hits": 30,
+    "x_rings": 8,
+    "notes": "practice"
+  },
+  {
+    "session_code": "AR-20261003-L3",
+    "archer": "Riley Ng",
+    "lane": 3,
+    "session_date": "2026-10-03",
+    "arrows": 30,
+    "hits": 18,
+    "x_rings": 2,
+    "notes": "windy"
+  },
+  {
+    "session_code": "AR-20261004-L2",
+    "archer": "Jon Park",
+    "lane": 2,
+    "session_date": "2026-10-04",
+    "arrows": 30,
+    "hits": 27,
+    "x_rings": 7,
+    "notes": "evening"
+  },
+  {
+    "session_code": "AR-20261005-L1",
+    "archer": "Sam Ortiz",
+    "lane": 1,
+    "session_date": "2026-10-05",
+    "arrows": 30,
+    "hits": 15,
+    "x_rings": 1,
+    "notes": "beginner clinic"
+  },
+  {
+    "session_code": "AR-20261006-L4",
+    "archer": "Riley Ng",
+    "lane": 4,
+    "session_date": "2026-10-06",
+    "arrows": 36,
+    "hits": 33,
+    "x_rings": 9,
+    "notes": "club night"
+  },
+  {
+    "session_code": "AR-20261007-L1",
+    "archer": "Maya Chen",
+    "lane": 1,
+    "session_date": "2026-10-07",
+    "arrows": 30,
+    "hits": 28,
+    "x_rings": 10,
+    "notes": "league finals warm-up"
+  }
+]

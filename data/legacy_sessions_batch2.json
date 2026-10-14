@@ -1,0 +1,42 @@
+[
+  {
+    "session_code": "AR-20261008-L2",
+    "archer": "Jon Park",
+    "lane": 2,
+    "session_date": "2026-10-08",
+    "arrows": 30,
+    "hits": 25,
+    "x_rings": 5,
+    "notes": "league"
+  },
+  {
+    "session_code": "AR-20261009-L3",
+    "archer": "Sam Ortiz",
+    "lane": 3,
+    "session_date": "2026-10-09",
+    "arrows": 30,
+    "hits": 20,
+    "x_rings": 2,
+    "notes": "clinic"
+  },
+  {
+    "session_code": "AR-20261010-L1",
+    "archer": "Maya Chen",
+    "lane": 1,
+    "session_date": "2026-10-10",
+    "arrows": 36,
+    "hits": 34,
+    "x_rings": 11,
+    "notes": "tournament"
+  },
+  {
+    "session_code": "AR-20261011-L4",
+    "archer": "Riley Ng",
+    "lane": 4,
+    "session_date": "2026-10-11",
+    "arrows": 30,
+    "hits": 22,
+    "x_rings": 4,
+    "notes": "practice"
+  }
+]
