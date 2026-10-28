@@ -89,7 +89,7 @@ The same `app.py` runs on [Pixeltable Cloud](https://pixeltable.com). Sign in (o
 pxt login                       # or: export PIXELTABLE_API_KEY=<your-api-key>
 # edit pixeltable.toml: name = 'pxt://<your-org>:<your-db>'
 pxt db update pxt://<your-org>:<your-db>                 # build the image and upload the project
-pxt schema update app.py pxt://<your-org>:<your-db>/archery   # create the tables in the hosted database
+pxt schema update app.py pxt://<your-org>:<your-db>       # create the tables at the database root (no per-app folder)
 ```
 
 Keep keys in environment variables or `pxt secret set`, never in code.
